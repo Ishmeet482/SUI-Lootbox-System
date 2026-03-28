@@ -198,6 +198,3 @@ export const GAME_CONFIG_ID = "0x_YOUR_GAME_CONFIG_ID_HERE";
 - **Stats Dashboard**: View pity counter progress and drop rates
 - **Responsive Design**: Works on desktop and mobile
 
-## License
-
-MIT License
