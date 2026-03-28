@@ -179,6 +179,22 @@ npm run dev
 
 The app will be available at `http://localhost:5173`
 
+### Demo Login Credentials
+
+```bash
+
+Use the following credentials to access the demo UI:
+
+Player
+
+Username: player
+Password: player123
+
+Admin
+
+Username: admin
+Password: admin123
+```
 ### Configuration
 
 After deploying the smart contract, update `frontend/src/constants.ts` with your deployed addresses:
