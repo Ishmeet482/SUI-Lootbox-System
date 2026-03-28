@@ -1,0 +1,8 @@
+[package]
+name = "lootbox"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+lootbox = "0x0"
